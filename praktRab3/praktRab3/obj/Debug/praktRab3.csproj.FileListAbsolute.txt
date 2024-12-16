@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\App.g.cs
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3_MarkupCompile.cache
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3_MarkupCompile.lref
+C:\Users\User\source\repos\praktRab3\praktRab3\bin\Debug\praktRab3.exe.config
+C:\Users\User\source\repos\praktRab3\praktRab3\bin\Debug\praktRab3.exe
+C:\Users\User\source\repos\praktRab3\praktRab3\bin\Debug\praktRab3.pdb
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.g.resources
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.Properties.Resources.resources
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.exe
+C:\Users\User\source\repos\praktRab3\praktRab3\obj\Debug\praktRab3.pdb
